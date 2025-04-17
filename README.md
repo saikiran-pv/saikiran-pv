@@ -20,7 +20,7 @@
 - **Others:** RESTful APIs, Elasticsearch, Stripe Integration, Google Maps API
 
 ---
-
+ <!--
 ## 📊 GitHub Stats
 
 ![Saikiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikiran-pv&show_icons=true&theme=radical&count_private=true)
@@ -34,7 +34,7 @@
 - **Autonomous Self-Driving Car:** Used Python, CNNs, and reinforcement learning for real-time simulation
 
 ---
-
+-->
 ## 📫 Let's Connect
 - 📍 Dallas, TX  
 - ✉️ saikiranreddypeddavootla@gmail.com  
