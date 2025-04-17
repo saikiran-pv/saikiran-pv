@@ -1,6 +1,6 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?saikiran-pv=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikiran-pv&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-john&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran-pv&layout=compact&theme=tokyonight)
 
 
 ## Hi there 👋
