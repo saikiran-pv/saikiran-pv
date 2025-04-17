@@ -1,3 +1,8 @@
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-john&layout=compact&theme=tokyonight)
+
+
 ## Hi there 👋
 
 <!--
